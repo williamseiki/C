@@ -1,13 +1,13 @@
 Introdução à Linguagem C
 
-• Variáveis: é uma posição de memória cujo conteúdo pode ser modificado durante a execução de um programa. A referência a uma variável no programa é feita através do seu identificador; os valores que podem ser nela armazenados dependem do seu tipo de dado.
+• Variáveis: é uma posição de memória cujo conteúdo pode ser modificado durante a execução de um programa. 
+São referenciadas por um identificador e e defini o tipo de valor pelo definição do tipo de dado.
 
-• Identificador: é uma sequência de letras, dígitos e caractere que referencia uma variavel, podemos dizer que é o "nome " da variavel. Lembrando que o primeiro caractere do identificador não pode ser um dígito. Como um programa deve ser legível por outros programadores (e pelo próprio programador), é uma boa prática se escolher um identificador de uma variável que tenha alguma relação com a sua finalidade. Se uma variável deve armazenar uma soma, um identificador
-muito bom para ela será Soma. Se uma variável vai receber números, ela poderia ser identificada por Num ou
-por Numero. Os compiladores da linguagem C fazem distinção entre letras maiusculas e minúsculas e,
-portanto, Numero e numero são dois identificadores diferentes. Manteremos, de um modo geral, a seguinte
-convenção ao longo do texto: quando um identificador possuir mais de um caractere, iniciá-lo-emos por letra
-maiuscula e quando o identificador tiver um único caractere, utilizaremos letra minúscula.
-Como veremos ao longo do livro, a linguagem C fixa alguns identificadores para a sintaxe de suas
-instruções. Estes identificadores não podem ser utilizados nos programas, sendo conhecidos por palavras
-reservadas. Algumas das palavras reservadas em C são:
+• Identificador: é, basicamente, o "nome" que se dá a variavel referenciada. 
+Lembrando que:
+- O primeiro caractere do identificador não pode ser um dígito. 
+- É uma boa prática se escolher um identificador que tenha alguma relação com a sua finalidade. 
+- Os compiladores da linguagem C fazem distinção entre letras maiusculas e minúsculas.
+- Não utilizar palavras reservadas do C para identificadores. (ex: for, while, ... )
+
+• Tipo de Dados: 
