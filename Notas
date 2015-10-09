@@ -6,7 +6,7 @@ TIPOS DE DADOS
 • double: números reais de –1,7x10^308 a -1,7x10^-308 e 1,7x10^-308 a 1,7x10^308 (8 bytes)
 
 ÁREA DE UM CIRCULO
-Para calcular a área de uma circunferência é: area = π x raio². 
+Para calcular a área de uma circunferência é: area = pi x raio². 
 Considerando que para este problema que π = 3.14159
 
 VOLUME DE UMA ESFERA
