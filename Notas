@@ -1,5 +1,4 @@
 TIPOS DE DADOS
-
 • char: caracteres codificados no código ASCII. (1 byte)
 • int: números inteiros de –32768 a 32767. (2 bytes)
 • long/long int: números inteiros de –65536 a 65535 (4 bytes)
@@ -8,6 +7,10 @@ TIPOS DE DADOS
 
 ÁREA DE UM CIRCULO
 Para calcular a área de uma circunferência é: area = π x raio². 
+Considerando que para este problema que π = 3.14159
+
+VOLUME DE UMA ESFERA
+Para calcular o volume de uma esfera é: volume = (4/3) * pi * raio³. 
 Considerando que para este problema que π = 3.14159
 
 EXPONENCIAÇÃO
