@@ -10,3 +10,7 @@ TIPOS DE DADOS
 Para calcular a área de uma circunferência é: area = π x raio². 
 Considerando que para este problema que π = 3.14159
 
+EXPONENCIAÇÃO
+Em C usamos a função pow(x, y) que seria X elevado a Y. 
+Por exemplo pow(2, 3) seria igual 2³ e retornaria 8.
+
