@@ -17,3 +17,8 @@ EXPONENCIAÇÃO
 Em C usamos a função pow(x, y) que seria X elevado a Y. 
 Por exemplo pow(2, 3) seria igual 2³ e retornaria 8.
 
+COMO SABER SE X, Y E Z FORMAM UM TRIANGULO?
+• (X + Y) > Z e (X + Z) > Y e (Y + Z) > X
+• equilátero? todos os lados iguais - ((X == Y) e (Y == Z))
+• isósceles? dois lados iguais - ((X == Y) ou (X == Z) ou (Z == Y))
+• escaleno? nenhum lado igual.
