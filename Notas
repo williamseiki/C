@@ -22,3 +22,9 @@ COMO SABER SE X, Y E Z FORMAM UM TRIANGULO?
 • equilátero? todos os lados iguais - ((X == Y) e (Y == Z))
 • isósceles? dois lados iguais - ((X == Y) ou (X == Z) ou (Z == Y))
 • escaleno? nenhum lado igual.
+
+PERIMETRO DE UM TRIÂNGULO
+perimetro = LADO A + LADO B + LADO C
+
+AREA DO TRAPÉZIO
+area = ((base A + base B) * altura) / 2
