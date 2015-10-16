@@ -28,3 +28,11 @@ perimetro = LADO A + LADO B + LADO C
 
 AREA DO TRAPÉZIO
 area = ((base A + base B) * altura) / 2
+
+BIBLIOTECA STRING.H
+• strlen(string): retorna o tamanho da string.
+• strcpy(string1, string2): copia a string1 na string2.
+• strcat(string1, string2): uni a string1 e a string2.
+• strcmp(string1, string2): comparando duas strings(Se forem iguais retorna 0, se string1 for 
+maior retorna um valor menor que 0, e se string2 for maior retorna um valor maior que 0.
+
